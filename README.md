@@ -1,5 +1,5 @@
-### <h1>Hey there, I'm Ezequias👋</h1>
-##
+ <h1>Hey there, I'm Ezequias👋</h1>
+
 
 <strong>I'm a web development student and passionate about web technologies.</strong>
 
